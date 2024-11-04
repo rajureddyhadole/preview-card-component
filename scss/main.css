@@ -35,7 +35,7 @@ body {
   padding: 2.25rem;
   display: flex;
   flex-direction: column;
-  gap: 1.25rem;
+  gap: 1.6rem;
 }
 .container .info-container .perfume {
   font-family: "Montserrat", sans-serif;
